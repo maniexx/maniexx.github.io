@@ -1,0 +1,33 @@
+body {
+	    font-size: 12px;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-weight:  normal;
+     	background-color: #161511;
+        text-decoration: none;
+}
+
+
+
+.kontakt {
+	font-size: 14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #999966;
+	text-decoration: none;
+
+}
+
+
+.Wizytowka {
+	font-size: 60px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #999966;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.construction {
+	font-size: 16px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #999966;
+	text-decoration: none;
+}
